@@ -14,11 +14,6 @@ body {
   padding: 15px 0;
 }
 
-.header__logo img {
-  max-width: 50px;
-  margin-bottom: 10px;
-}
-
 .header__title {
   font-size: 2.5em;
   margin: 0;
