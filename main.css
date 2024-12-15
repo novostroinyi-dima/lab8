@@ -45,7 +45,7 @@ body {
 }
 .card__message {
   font-size: 1.2rem;
-  color: #a8dadc;
+  color: #000;
 }
 
 .footer {
@@ -57,5 +57,5 @@ body {
 }
 .footer__text {
   font-size: 0.9rem;
-  color: #000;
+  color: #fff;
 }/*# sourceMappingURL=main.css.map */
