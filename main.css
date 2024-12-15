@@ -4,7 +4,7 @@ body {
   padding: 0;
   background: url("../assets/images/background.jpg") no-repeat center center fixed;
   background-size: cover;
-  color: #f1faee;
+  color: #fff;
 }
 
 .header {
@@ -57,5 +57,5 @@ body {
 }
 .footer__text {
   font-size: 0.9rem;
-  color: #f1faee;
+  color: #000;
 }/*# sourceMappingURL=main.css.map */
